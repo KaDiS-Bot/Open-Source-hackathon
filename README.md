@@ -1,6 +1,4 @@
-Great, I see the repository. Here's a README template tailored to your project:
 
----
 
 # Open Source Hackathon
 
